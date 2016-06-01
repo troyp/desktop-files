@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=
+Exec=/usr/bin/feh -.
+MimeType=inode/directory;
+Name=feh
+NoDisplay=true
+Path=
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=jPdfTweak
+Path=/opt/jpdftweak/
+Exec=java -jar /opt/jpdftweak/jpdftweak.jar
+Terminal=false
+MimeType=application/pdf;
+Type=Application
+Categories=Office;Utility;

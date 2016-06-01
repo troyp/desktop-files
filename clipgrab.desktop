@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Name=ClipGrab
+Comment=Download videos from youtube, vimeo, metacafe, dailymotion, etc.
+GenericName=Video Downloader
+Type=Application
+Exec=/opt/bin/clipgrab
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Utility;
+Keywords=Video;Download;
+
