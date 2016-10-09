@@ -1,14 +1,17 @@
 [Desktop Entry]
 Categories=Network;Internet;
-Comment[en_US]=
+Comment[en_AU]=
 Comment=
+Comment[en_US]=
 Exec=/opt/firefox/firefox -new-tab "%U"
-GenericName[en_US]=Web Browser
+GenericName[en_AU]=Web Browser
 GenericName=Web Browser
-Icon=/opt/icons/firefox.png
+GenericName[en_US]=Web Browser
+Icon=/home/troy/.local/share/icons/firefox.svg
 MimeType=
-Name[en_US]=Firefox
+Name[en_AU]=Firefox
 Name=Firefox
+Name[en_US]=Firefox
 NoDisplay=false
 Path=
 StartupNotify=true

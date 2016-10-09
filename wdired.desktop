@@ -1,13 +1,16 @@
 [Desktop Entry]
-Comment[en_US]=
+Comment[en_AU]=
 Comment=
+Comment[en_US]=
 Exec=~/.scripts/wdired %f
-Icon=/usr/share/icons/hicolor/scalable/apps/emacs24.svg
-GenericName[en_US]=
+GenericName[en_AU]=
 GenericName=
+GenericName[en_US]=
+Icon=/usr/share/icons/hicolor/scalable/apps/emacs24.svg
 MimeType=inode/directory;
+Name[en_AU]=wdired
+Name=wdired
 Name[en_US]=wdired
-Name=dired
 NoDisplay=true
 Path=
 StartupNotify=true

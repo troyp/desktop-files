@@ -2,7 +2,7 @@
 Comment[en_US]=
 Comment=
 Exec=firefox -new-tab "%f"
-Icon=/opt/firefox/browser/icons/mozicon128.png
+Icon=/opt/firefox/browser/icons/firefox.svg
 GenericName[en_US]=Web Browser
 GenericName=Web Browser
 MimeType=inode/directory;
