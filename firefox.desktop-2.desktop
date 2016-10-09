@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/home/troy/.local/share/applications/firefox.desktop
+Name=firefox.desktop
+NoDisplay=true
+Type=Application

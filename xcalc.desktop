@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=/usr/bin/xcalc
+Icon=/home/troy/.local/share/icons/xcalc.png
+GenericName=GIF Viewer/Editor
+Name=xcalc
+NoDisplay=true
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Utility;

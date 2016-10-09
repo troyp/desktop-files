@@ -1,0 +1,32 @@
+[Desktop Entry]
+Exec=systemsettings5
+Icon=/home/troy/.local/share/icons/preferences-system-white.svg
+Type=Application
+X-DocPath=systemsettings/index.html
+X-KDE-StartupNotify=true
+OnlyShowIn=KDE;
+
+GenericName=KDE System Settings (white icon)
+GenericName[ar]=إعدادات النظام
+GenericName[de]=Systemeinstellungen
+GenericName[el]=Ρυθμίσεις συστήματος
+GenericName[en_GB]=System Settings
+GenericName[es]=Preferencias del sistema
+GenericName[fr]=Configuration du système
+GenericName[it]=Impostazioni di sistema
+GenericName[ja]=システム設定
+GenericName[x-test]=xxSystem Settingsxx
+
+Name=System Settings (white icon)
+Name[ar]=إعدادات النظام
+Name[de]=Systemeinstellungen
+Name[el]=Ρυθμίσεις συστήματος
+Name[en_GB]=System Settings
+Name[es]=Preferencias del sistema
+Name[fr]=Configuration du système
+Name[it]=Impostazioni di sistema
+Name[ja]=KDE システム設定
+Name[x-test]=xxSystem Settingsxx
+
+X-DBUS-StartupType=Unique
+Categories=Qt;KDE;Settings;

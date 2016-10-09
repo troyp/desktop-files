@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=dolphin
+Name=dolphin
+NoDisplay=true
+Type=Application

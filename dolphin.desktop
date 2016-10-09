@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;FileTools;FileManager;
+Comment[en_AU]=
+Comment=
+Exec=XDG_CURRENT_DESKTOP=kde dolphin
+GenericName[en_AU]=
+GenericName=
+Icon=/home/troy/.local/share/icons/dolphin-blue.svg
+MimeType=
+Name[en_AU]=Dolphin File Manager
+Name=Dolphin File Manager
+NoDisplay=true
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
