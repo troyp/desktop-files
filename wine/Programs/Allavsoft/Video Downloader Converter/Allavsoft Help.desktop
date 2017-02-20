@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Allavsoft Help
+Exec=env WINEPREFIX="/home/troy/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/troy/.wine/dosdevices/c:/users/troy/Start\\ Menu/Programs/Allavsoft/Video\\ Downloader\\ Converter/Allavsoft\\ Help.lnk
+Type=Application
+StartupNotify=true
+Path=/home/troy/.wine/dosdevices/c:/Program Files (x86)/Allavsoft/Video Downloader Converter
+Icon=3B92_help.0

@@ -2,7 +2,7 @@
 Type=Application
 Name=Android Studio
 Comment=Android Studio Integrated Development Environment
-Icon=/home/troy/.local/share/icons/Android_Studio_Logo.png
+Icon=/opt/android-studio/bin/studio.png
 Exec=/opt/android-studio/bin/studio.sh
 Terminal=false
 Categories=Development;IDE;Java;

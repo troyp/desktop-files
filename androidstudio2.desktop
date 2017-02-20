@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=Android Studio
+Name=Android Studio 2
 Comment=Android Studio Integrated Development Environment
-Icon=/home/troy/.local/share/icons/Android_Studio_Logo.png
+Icon=/opt/android-studio-2/bin/studio.png
 Exec=/opt/android-studio-2/bin/studio.sh
 Terminal=false
 Categories=Development;IDE;Java;

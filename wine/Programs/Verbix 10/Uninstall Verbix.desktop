@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Uninstall Verbix
+Exec=env WINEPREFIX="/home/troy/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/troy/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/Verbix\\ 10/Uninstall\\ Verbix.lnk
+Type=Application
+StartupNotify=true
+Path=/home/troy/.wine/dosdevices/c:/Program Files (x86)/Verbix10
+Icon=1177_unins000.0

@@ -61,3 +61,6 @@ text/english=emacsclient.desktop;emacs24.desktop;emacs-24.5.desktop;emacs.deskto
 text/x-c++=emacsclient.desktop;emacs24.desktop;emacs-24.5.desktop;emacs.desktop;emacsclient-frame.desktop
 text/plain=gedit.desktop;kate.desktop;emacsclient.desktop;emacs24.desktop;kate-2-2.desktop;kate-2-3.desktop;kate-2.desktop;SciTE.desktop;emacs-24.5.desktop;emacs.desktop;wine-extension-ini.desktop;wine-extension-txt.desktop;emacsclient-frame.desktop
 text/x-makefile=emacsclient.desktop;emacs24.desktop;emacs-24.5.desktop;emacs.desktop;emacsclient-frame.desktop
+application/x-bittorrent=ktorrent.desktop
+application/x-torrent=ktorrent.desktop
+x-scheme-handler/magnet=ktorrent.desktop

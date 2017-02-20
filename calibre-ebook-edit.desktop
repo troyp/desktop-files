@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Edit E-book
+GenericName=Edit E-books
+Comment=Edit e-books in various formats
+TryExec=ebook-edit
+Exec=ebook-edit --detach %f
+Icon=calibre-ebook-edit
+Categories=Office;
+MimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/epub+zip;application/x-mobi8-ebook;text/html;application/xhtml+xml;

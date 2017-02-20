@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=KTorrent
+Name[en_GB]=KTorrent
+GenericName=BitTorrent Client
+GenericName[en_GB]=BitTorrent Client
+Exec=ktorrent %i
+Icon=/usr/share/icons/oxygen/32x32/apps/ktorrent.png
+Type=Application
+X-DocPath=ktorrent/index.html
+MimeType=application/x-bittorrent;application/x-torrent;x-scheme-handler/magnet;
+X-DBUS-StartupType=Unique
+X-DBUS-ServiceName=org.ktorrent.ktorrent
+Comment=A BitTorrent program for KDE
+Comment[en_GB]=A BitTorrent program for KDE
+Terminal=false
+Categories=Qt;KDE;Network;FileTransfer;P2P;

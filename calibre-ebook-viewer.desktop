@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=E-book Viewer
+GenericName=Viewer for E-books
+Comment=Viewer for E-books in all the major formats
+TryExec=ebook-viewer
+Exec=ebook-viewer --detach %f
+Icon=calibre-viewer
+Categories=Graphics;Viewer;
+MimeType=application/oebps-package+xml;application/x-mobipocket-subscription;image/vnd.djvu;application/x-cbz;application/xhtml+xml;application/rtf;text/html;application/x-mobi8-ebook;application/x-cbr;application/x-sony-bbeb;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/x-mobipocket-ebook;application/vnd.oasis.opendocument.text;application/x-ruby;application/vnd.ms-word.document.macroEnabled.12;text/fb2+xml;application/pdf;text/plain;application/epub+zip;application/x-cbc;text/x-markdown;
