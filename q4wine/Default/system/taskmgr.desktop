@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/bin/q4wine-cli -p "Default"  -d "system"  -i "taskmgr" 
+Icon=/usr/share/q4wine/icons/taskmgr.png
+Type=Application
+StartupNotify=true
+GenericName=taskmgr
+Name=taskmgr
+Path=

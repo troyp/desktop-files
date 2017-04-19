@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=/usr/bin/xclock -update 1
+GenericName=Analog Clock
+Name=xclock
+NoDisplay=true
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Utilities
+

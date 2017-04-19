@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/bin/q4wine-cli -p "Default"  -d "system"  -i "wineconsole" 
+Icon=/usr/share/q4wine/icons/wineconsole.png
+Type=Application
+StartupNotify=true
+GenericName=wineconsole
+Name=wineconsole
+Path=

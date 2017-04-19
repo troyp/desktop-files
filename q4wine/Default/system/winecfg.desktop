@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/bin/q4wine-cli -p "Default"  -d "system"  -i "winecfg" 
+Icon=/usr/share/q4wine/icons/winecfg.png
+Type=Application
+StartupNotify=true
+GenericName=winecfg
+Name=winecfg
+Path=

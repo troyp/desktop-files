@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Wakan
+Exec=env WINEPREFIX="/home/troy/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/troy/.wine/dosdevices/c:/users/troy/Start\\ Menu/Programs/Wakan/Wakan.lnk
+Type=Application
+StartupNotify=true
+Path=/home/troy/.wine/dosdevices/c:/Program Files (x86)/Wakan
+Icon=3FE5_wakan.0

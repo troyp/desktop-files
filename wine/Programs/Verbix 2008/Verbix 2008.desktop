@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Verbix 2008
+Exec=env WINEPREFIX="/home/troy/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/troy/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/Verbix\\ 2008/Verbix\\ 2008.lnk
+Type=Application
+StartupNotify=true
+Icon=73A0_verbix.0

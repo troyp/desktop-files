@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/bin/q4wine-cli -p "Default"  -d "system"  -i "wordpad" 
+Icon=/usr/share/q4wine/icons/wordpad.png
+Type=Application
+StartupNotify=true
+GenericName=wordpad
+Name=wordpad
+Path=

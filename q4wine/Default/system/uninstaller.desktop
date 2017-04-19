@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/bin/q4wine-cli -p "Default"  -d "system"  -i "uninstaller" 
+Icon=/usr/share/q4wine/icons/uninstaller.png
+Type=Application
+StartupNotify=true
+GenericName=uninstaller
+Name=uninstaller
+Path=
