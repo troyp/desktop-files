@@ -1,5 +1,5 @@
 [Added Associations]
-application/epub+zip=calibre-ebook-viewer.desktop;calibre-gui.desktop;kde4-kchmviewer.desktop;okularApplication_epub.desktop;calibre-ebook-edit.desktop;atril.desktop;kde4-okularApplication_epub.desktop;sigil.desktop;runmaff.desktop;firefox.desktop;org.kde.ark.desktop;mount-archive.desktop;xarchiver.desktop;comix.desktop;zathura-cb.desktop;
+application/epub+zip=calibre-ebook-viewer.desktop;calibre-gui.desktop;org.kde.ark.desktop;kde4-kchmviewer.desktop;runmaff.desktop;firefox.desktop;okularApplication_epub.desktop;calibre-ebook-edit.desktop;atril.desktop;kde4-okularApplication_epub.desktop;sigil.desktop;mount-archive.desktop;xarchiver.desktop;comix.desktop;zathura-cb.desktop;
 application/gzip=firefox-2.desktop;
 application/javascript=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.desktop;lighttable.desktop;atom.desktop;gedit.desktop;kayali.desktop;emacs24.desktop;SciTE.desktop;firefox.desktop;geany.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
 application/javascript module=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;lighttable.desktop;atom.desktop;kde4-kate.desktop;
@@ -79,6 +79,7 @@ text/x-log=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.de
 text/x-makefile=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.desktop;firefox.desktop;kate.desktop;gedit.desktop;atom.desktop;geany.desktop;SciTE.desktop;abiword.desktop;kde4-kwrite.desktop;aegisub.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;kayali.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
 text/x-markdown=gvim.desktop;emacsclient-frame.desktop;retext.desktop;emacsclient.desktop;leafpad.desktop;firefox.desktop;kate.desktop;gedit.desktop;atom.desktop;geany.desktop;SciTE.desktop;abiword.desktop;kde4-kwrite.desktop;aegisub.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;kayali.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
 text/x-opml+xml=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;firefox.desktop;leafpad.desktop;kde4-kfmclient_html.desktop;kde4-rekonq.desktop;kate.desktop;netsurf-gtk.desktop;gedit.desktop;atom.desktop;google-chrome.desktop;geany.desktop;SciTE.desktop;abiword.desktop;dwb.desktop;kde4-kwrite.desktop;aegisub.desktop;dillo.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;kde4-chrome.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;chrome.desktop;mousepad.desktop;emacs24.desktop;chromium-browser.desktop;kayali.desktop;google-chrome-beta.desktop;wine-extension-xml.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
+text/x-patch=emacsclient.desktop;org.kde.kompare.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.desktop;firefox.desktop;kate.desktop;SciTE.desktop;abiword.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;emacs.desktop;wine-extension-txt.desktop;wine-extension-ini.desktop;org.kde.kate.desktop;emacs-snapshot.desktop;calibre-gui.desktop;emacs24-term.desktop;emacs25.desktop;vim.desktop;emacs25-term.desktop;calibre-ebook-viewer.desktop;
 text/x-python=emacsclient.desktop;gvim.desktop;leafpad.desktop;firefox-9.desktop;kate.desktop;gedit.desktop;atom.desktop;geany.desktop;SciTE.desktop;abiword.desktop;kde4-kwrite.desktop;aegisub.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;kayali.desktop;
 text/x-readme=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.desktop;firefox.desktop;kate.desktop;gedit.desktop;atom.desktop;geany.desktop;SciTE.desktop;abiword.desktop;kde4-kwrite.desktop;aegisub.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;kayali.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
 text/x-scheme=emacsclient.desktop;emacsclient-frame.desktop;gvim.desktop;leafpad.desktop;firefox.desktop;kate.desktop;gedit.desktop;atom.desktop;geany.desktop;SciTE.desktop;abiword.desktop;kde4-kwrite.desktop;aegisub.desktop;kde4-kate.desktop;kate:kde4__kate.desktop;libreoffice-writer.desktop;kde4-okularApplication_txt.desktop;mousepad.desktop;emacs24.desktop;kayali.desktop;emacs.desktop;wine-extension-txt.desktop;emacs-24.5.desktop;wine-extension-ini.desktop;
@@ -113,10 +114,11 @@ application/x-mobipocket-ebook=calibre-ebook-viewer.desktop;
 application/x-shellscript=emacsclient.desktop;
 application/x-xzpdf=firefox.desktop;
 application/xhtml+xml=userapp-Firefox-6VPOKX.desktop
-inode/directory=dolphin.desktop;
+inode/directory=/home/troy/.local/share/applications/dolphin.desktop
 text/csv=emacsclient.desktop;
 text/html=userapp-Firefox-6VPOKX.desktop
 text/markdown=emacsclient.desktop;
+text/x-patch=emacsclient.desktop;
 video/mpeg=vlc.desktop;
 video/ogg=vlc.desktop;
 x-scheme-handler/chrome=userapp-Firefox-6VPOKX.desktop
