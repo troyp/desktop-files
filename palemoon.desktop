@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Network;Internet;
+Comment[en_AU]=
+Comment=
+Comment[en_US]=
+Exec=/opt/palemoon/palemoon -new-tab "%U"
+GenericName[en_AU]=Web Browser
+GenericName=Web Browser
+GenericName[en_US]=Web Browser
+Icon=/opt/palemoon/browser/icons/mozicon128.png
+MimeType=
+Name[en_AU]=Palemoon
+Name=Palemoon
+Name[en_US]=Palemoon
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
