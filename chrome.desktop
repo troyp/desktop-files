@@ -7,7 +7,7 @@ GenericName=Web Browser
 # Gnome and KDE 3 uses Comment.
 Comment=Access the Internet
 Comment[en_GB]=Access the Internet
-Exec=/usr/bin/google-chrome-stable %U
+Exec=/usr/bin/google-chrome-stable --disable-infobars %U
 Terminal=false
 Icon=google-chrome
 Type=Application
