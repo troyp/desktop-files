@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Network;WebBrowser;Internet;
+Comment[en_AU]=
+Comment=
+Comment[en_US]=
+Exec=/opt/uzbl/bin/uzbl-browser
+GenericName[en_AU]=Web Browser
+GenericName=Web Browser
+GenericName[en_US]=Web Browser
+Icon=/opt/uzbl/icons/96x96.png
+MimeType=
+Name[en_AU]=Uzbl
+Name=Uzbl
+Name[en_US]=Uzbl
+NoDisplay=false
+Path=
+StartupNotify=true
+Type=Application
+Terminal=false
+TerminalOptions=
