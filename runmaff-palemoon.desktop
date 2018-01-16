@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=/home/troy/.scripts/runmaff
+Exec=/home/troy/.scripts/runmaff %F palemoon
 MimeType=application/zip;
-Name=runmaff
+Name=runmaff (Palemoon)
 NoDisplay=true
 Type=Application
 Categories=Network;Internet;

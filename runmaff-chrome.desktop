@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=/home/troy/.scripts/runmaff
+Exec=/home/troy/.scripts/runmaff %F google-chrome
 MimeType=application/zip;
-Name=runmaff
+Name=runmaff (Google Chrome)
 NoDisplay=true
 Type=Application
 Categories=Network;Internet;
