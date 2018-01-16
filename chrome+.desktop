@@ -7,7 +7,7 @@ GenericName=Web Browser
 # Gnome and KDE 3 uses Comment.
 Comment=Access the Internet
 Comment[en_GB]=Access the Internet
-Exec=/usr/bin/google-chrome-stable  --profile-directory=Default
+Exec=/usr/bin/google-chrome-stable --allow-no-sandbox-job --allow-running-insecure-content --allow-file-access-from-files --allow-insecure-localhost --disable-infobars --extensions-on-chrome-urls %U
 Terminal=false
 Icon=google-chrome
 Type=Application
