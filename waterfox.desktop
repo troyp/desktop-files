@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Network;Internet;
+Comment[en_AU]=
+Comment=
+Comment[en_US]=
+Exec=/opt/waterfox/waterfox -new-tab "%U"
+GenericName[en_AU]=Web Browser
+GenericName=Web Browser
+GenericName[en_US]=Web Browser
+Icon=/opt/waterfox/browser/icons/mozicon128.png
+MimeType=
+Name[en_AU]=Waterfox
+Name=Waterfox
+Name[en_US]=Waterfox
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
