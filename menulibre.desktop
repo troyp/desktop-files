@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MenuLibre
+Comment=Add or remove applications from the menu
+Icon=menulibre
+Exec=/usr/bin/menulibre
+NoDisplay=false
+Categories=DesktopSettings;GNOME;Settings;Utility;
+Keywords=Configuration;Menu;User;
+StartupNotify=true
+Terminal=false
