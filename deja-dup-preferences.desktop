@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Deja Dup Settings
+Comment=Change your backup settings
+Icon=deja-dup
+TryExec=deja-dup-preferences
+Exec=deja-dup-preferences
+NoDisplay=false
+NotShowIn=Unity;
+Categories=Archiving;GNOME;GTK;Settings;Utility;X-GNOME-SystemSettings;
+Keywords=déjà;deja;dup;
+StartupNotify=true
+Terminal=false
+
+Actions=BackUpNow;
+
+[Desktop Action BackUpNow]
+Name=Back Up
+Exec=deja-dup --backup
+OnlyShowIn=Unity

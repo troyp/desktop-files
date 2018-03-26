@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gnome Calculator
+Comment=Perform arithmetic, scientific or financial calculations
+Icon=accessories-calculator
+Exec=gnome-calculator
+NoDisplay=false
+Categories=Calculator;GNOME;GTK;Utility;
+Keywords=calculation;arithmetic;scientific;financial;
+StartupNotify=true
+Terminal=false

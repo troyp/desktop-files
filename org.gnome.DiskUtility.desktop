@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gnome Disks
+Comment=Manage Drives and Media
+Icon=gnome-disks
+Exec=gnome-disks
+NoDisplay=false
+Categories=GNOME;GTK;HardwareSettings;HardwareSettings;Settings;Utility;X-GNOME-Utilities;
+Keywords=disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;
+StartupNotify=true
+Terminal=false
+DBusActivatable=True

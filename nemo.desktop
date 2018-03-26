@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nemo
+Comment=Access and organise files
+Icon=folder
+Exec=nemo %U
+NoDisplay=false
+Categories=Core;GNOME;GTK;Utility;
+MimeType=inode/directory;application/x-gnome-saved-search;
+StartupNotify=false
+Terminal=false

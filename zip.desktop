@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=zip
+MimeType=inode/directory;
+Name=zip
+NoDisplay=true
+Terminal=true
+Type=Application

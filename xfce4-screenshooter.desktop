@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Screenshot (XFCE4)
+Comment=Take screenshots of the entire screen, of the active window or of a region
+Icon=applets-screenshooter
+Exec=xfce4-screenshooter
+NoDisplay=false
+Categories=GTK;Utility;
+StartupNotify=true
+Terminal=false

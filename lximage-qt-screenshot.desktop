@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Screenshot (LXImage-QT)
+GenericName=Screenshot
+Comment=Take a screenshot
+Icon=camera-photo
+Exec=lximage-qt --screenshot
+NoDisplay=false
+Categories=Core;Graphics;Qt;Utility;
+StartupNotify=true
+Terminal=false

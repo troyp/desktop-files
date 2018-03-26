@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=File Roller
+Comment=Create and modify an archive
+Icon=file-roller
+TryExec=file-roller
+Exec=file-roller %U
+NoDisplay=false
+NotShowIn=KDE;
+Categories=Archiving;Compression;GNOME;GTK;Utility;X-GNOME-Utilities;
+Keywords=zip;tar;extract;unpack;
+StartupNotify=true
+Terminal=false

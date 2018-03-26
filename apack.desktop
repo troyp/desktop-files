@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=apack
+MimeType=inode/directory;
+Name=apack
+NoDisplay=true
+Terminal=true
+TerminalOptions=--noclose
+Type=Application

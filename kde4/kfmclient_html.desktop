@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Konqueror (text-html)
+Icon=konqueror
+Exec=kfmclient openURL %u text/html
+NoDisplay=true
+Categories=KDE;Qt;System;System-Tools;
+MimeType=text/html;application/xhtml+xml;application/xml;
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Konqueror (inode-directory)
+Icon=konqueror
+Exec=kfmclient openURL %u inode/directory
+NoDisplay=true
+Categories=KDE;Qt;System;System-Tools;
+MimeType=inode/directory;
+StartupNotify=false
+Terminal=false

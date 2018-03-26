@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LXTask
+GenericName=Process manager
+Comment=Manage running processes
+Icon=utilities-system-monitor
+Exec=lxtask
+NoDisplay=false
+Categories=GTK;Monitor;System;System-Tools;
+Keywords=task;kill;suspend;processor;memory;monitoring;performance;
+StartupNotify=true
+Terminal=false

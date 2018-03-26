@@ -1,5 +1,5 @@
 [Desktop Entry]
-Categories=Qt;KDE;Utility;FileTools;FileManager;
+Categories=Qt;KDE;Utility;FileTools;FileManager;System;System-Tools;
 Comment[en_AU]=
 Comment=
 Exec=XDG_CURRENT_DESKTOP=kde /usr/bin/dolphin4

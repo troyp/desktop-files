@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Theme Configuration (GTK)
+GenericName=Theme Configuration
+Comment=Configure GTK theme colours
+Icon=gtk-theme-config
+Exec=gtk-theme-config
+NoDisplay=false
+Categories=DesktopSettings;GNOME;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;
+Keywords=color;gtk;highlight;theme;widget;
+StartupNotify=false
+Terminal=false

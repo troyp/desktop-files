@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GPicView
+GenericName=Image Viewer
+Comment=View your images easily
+Icon=gpicview
+Exec=gpicview %f
+NoDisplay=false
+Categories=2DGraphics;Core;GTK;Graphics;Photography;RasterGraphics;Utility;Viewer;
+Keywords=graphics;pictures;viever;photography;
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/png;image/tiff;image/x-bmp;image/x-pcx;image/x-tga;image/x-portable-pixmap;image/x-portable-bitmap;image/x-targa;image/x-portable-greymap;application/pcx;image/svg+xml;image/svg-xml;
+StartupNotify=true
+Terminal=false

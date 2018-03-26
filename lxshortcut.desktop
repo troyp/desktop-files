@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Shortcut Editor (LXDE)
+Comment=Create new or change existing desktop entry
+Icon=applications-other
+Exec=lxshortcut -i %f
+NoDisplay=true
+Categories=GTK;Utility;
+MimeType=application/x-desktop;
+StartupNotify=true
+Terminal=false

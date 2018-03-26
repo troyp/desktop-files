@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Konqueror (webarchive)
+Icon=konqueror
+Exec=kfmclient openURL %u application/x-webarchive
+NoDisplay=true
+Categories=KDE;Qt;System;System-Tools;
+MimeType=application/x-webarchive;
+StartupNotify=false
+Terminal=false

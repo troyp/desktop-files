@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Deja Dup Backup
+Icon=deja-dup
+TryExec=deja-dup
+Exec=deja-dup --backup
+NoDisplay=true
+Categories=Archiving;GNOME;GTK;Utility;
+StartupNotify=true
+Terminal=false
