@@ -1,7 +1,7 @@
 [Desktop Entry]
 Exec=/home/troy/.scripts/runmaff %F /opt/waterfox/waterfox
 MimeType=application/zip;
-Name=runmaff
+Name=runmaff (Waterfox)
 NoDisplay=true
 Type=Application
 Categories=Network;Internet;
