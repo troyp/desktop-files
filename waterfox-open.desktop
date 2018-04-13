@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment[en_US]=
 Comment=
-Exec=/opt/waterfox/waterfox -new-tab "%f"
+Exec=/opt/waterfox/waterfox
 Icon=/opt/waterfox/browser/icons/firefox.svg
 GenericName[en_US]=Web Browser
 GenericName=Web Browser

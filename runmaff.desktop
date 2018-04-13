@@ -1,7 +1,11 @@
 [Desktop Entry]
-Exec=/home/troy/.scripts/runmaff %F /opt/waterfox/waterfox
-MimeType=application/zip;
-Name=runmaff
-NoDisplay=true
+Version=1.0
 Type=Application
+Name=runmaff
+Icon=application-default-icon
+Exec=/home/troy/.scripts/runmaff %F /opt/waterfox/waterfox
+MimeType=application/zip;application/x-maff
+NoDisplay=true
 Categories=Network;Internet;
+StartupNotify=false
+Terminal=false

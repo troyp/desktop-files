@@ -1,7 +1,11 @@
 [Desktop Entry]
-Exec=/home/troy/.scripts/runmaff %F google-chrome
-MimeType=application/zip;
-Name=runmaff (Google Chrome)
-NoDisplay=true
+Version=1.0
 Type=Application
+Name=runmaff (Google Chrome)
+Icon=application-default-icon
+Exec=/home/troy/.scripts/runmaff %F google-chrome
+MimeType=application/zip;application/x-maff
+NoDisplay=true
 Categories=Network;Internet;
+StartupNotify=false
+Terminal=false

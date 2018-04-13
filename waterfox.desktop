@@ -1,9 +1,9 @@
 [Desktop Entry]
-Categories=Network;Internet;
+Categories=Network;Internet;WebBrowser
 Comment[en_AU]=
 Comment=
 Comment[en_US]=
-Exec=/opt/waterfox/waterfox -new-tab "%U"
+Exec=/opt/waterfox/waterfox
 GenericName[en_AU]=Web Browser
 GenericName=Web Browser
 GenericName[en_US]=Web Browser
