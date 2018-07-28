@@ -1,23 +1,12 @@
 [Desktop Entry]
-X-AppInstall-Package=nemo
-X-AppInstall-Popcon=1096
-X-AppInstall-Section=universe
-
-Name=Files
-Comment=Access and organize files
-Exec=nemo %U
-Icon=folder
-Terminal=false
+Version=1.0
 Type=Application
-StartupNotify=false
-# OnlyShowIn=GNOME;Unity;
-Categories=GNOME;GTK;Utility;Core;System;Utilities
+Name=Nemo
+Comment=Access and organise files
+Icon=folder
+Exec=nemo %U
+NoDisplay=false
+Categories=Core;GNOME;GTK;System;System-Tools;Utilities;Utility;
 MimeType=inode/directory;application/x-gnome-saved-search;
-X-GNOME-Bugzilla-Bugzilla=GNOME
-X-GNOME-Bugzilla-Product=nemo
-X-GNOME-Bugzilla-Component=general
-X-GNOME-Bugzilla-Version=1.8.4
-
-
-
-X-Ubuntu-Gettext-Domain=app-install-data
+StartupNotify=false
+Terminal=false

@@ -1,8 +1,5 @@
 [Desktop Entry]
-Categories=Network;Internet;WebBrowser
-Comment[en_AU]=
-Comment=
-Comment[en_US]=
+Categories=Network;X-Internet;WebBrowser;
 Exec=/opt/waterfox/waterfox
 GenericName[en_AU]=Web Browser
 GenericName=Web Browser
@@ -13,12 +10,7 @@ Name[en_AU]=Waterfox
 Name=Waterfox
 Name[en_US]=Waterfox
 NoDisplay=false
-Path=
 StartupNotify=true
 Terminal=false
-TerminalOptions=
 Type=Application
-X-DBUS-ServiceName=
-X-DBUS-StartupType=
 X-KDE-SubstituteUID=false
-X-KDE-Username=
