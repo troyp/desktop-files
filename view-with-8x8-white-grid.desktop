@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=~/.scripts/view-with-grid %F 8x8 white
+GenericName=Image Viewer/Editor with White Grid
+MimeType=inode/directory;image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/tiff;image/x-psd;image/x-webp;image/svg+xml;
+Name=display (8x8 white grid)
+NoDisplay=true
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Graphics;
