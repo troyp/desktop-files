@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=~/.scripts/show-img-info "%F"
+GenericName=Image Info Display
+MimeType=inode/directory;image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/tiff;image/x-psd;image/x-webp;image/svg+xml;
+Name=image info
+NoDisplay=true
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Graphics;
