@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=/usr/bin/feh -.
+Exec=/usr/bin/feh --auto-zoom -.
 MimeType=inode/directory;
 Name=feh
 NoDisplay=true
