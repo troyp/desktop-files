@@ -1,6 +1,8 @@
 [Desktop Entry]
 Exec=/usr/bin/okular
-MimeType=application/x-xzpdf;
+MimeType=application/x-xzpdf;application/pdf;
 Name=okular
+Icon=/usr/share/icons/hicolor/scalable/apps/okular.svgz
 NoDisplay=true
 Type=Application
+Categories=KDE;Utility;
