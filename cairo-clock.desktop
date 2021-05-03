@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=cairo-clock
+X-AppInstall-Popcon=100
+X-AppInstall-Section=universe
+
+Type=Application
+Encoding=UTF-8
+Name=MacSlow's Cairo-Clock
+Comment=a super fine analog clock
+Exec=cairo-clock -p -w 600 -h 600 -x 660 -y 240 -t radium
+Icon=cairo-clock
+Categories=Utility;Clock;
