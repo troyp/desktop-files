@@ -1,11 +1,10 @@
 [Desktop Entry]
-Categories=Network;X-Internet;WebBrowser;
 Exec=/opt/waterfox/waterfox
 GenericName[en_AU]=Web Browser
 GenericName=Web Browser
 GenericName[en_US]=Web Browser
 Icon=/opt/waterfox/browser/icons/mozicon128.png
-MimeType=
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;x-scheme-handler/chrome;video/webm;application/x-xpinstall;
 Name[en_AU]=Waterfox
 Name=Waterfox
 Name[en_US]=Waterfox
@@ -14,3 +13,4 @@ StartupNotify=true
 Terminal=false
 Type=Application
 X-KDE-SubstituteUID=false
+Categories=Network;X-Internet;WebBrowser;Utility;
