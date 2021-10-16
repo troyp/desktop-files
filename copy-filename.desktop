@@ -3,5 +3,4 @@ Exec=copy-filename "%f";
 MimeType=all/all;
 Name=copy-filename
 NoDisplay=true
-Terminal=false
-Categories=Utility;
+Categories=Utility;System;
