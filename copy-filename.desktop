@@ -1,6 +1,7 @@
 [Desktop Entry]
 Exec=copy-filename "%f";
-MimeType=all/all;
+MimeType=application/octet-stream;inode/directory;
+Type=Application
 Name=copy-filename
 NoDisplay=true
 Categories=Utility;System;
