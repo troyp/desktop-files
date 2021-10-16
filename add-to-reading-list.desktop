@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Add to reading list
+Exec=add-to-reading-list "%f"
+Icon=
+Type=Application
+Comment=Add link to document in ~/.readinglist
+MimeType=all/all;
+Terminal=false
+NoDisplay=true
+Categories=Utility;System;
