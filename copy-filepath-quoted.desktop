@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=copy-filepath-quoted "%f";
+MimeType=application/octet-stream;
+Name=copy-filename
+NoDisplay=true
+Categories=Utility;System;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=~/.scripts/open-with-program %e
+GenericName=Open with specified program
+MimeType=application/octet-stream;
+Name=open-with-program
+NoDisplay=true
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Utility;

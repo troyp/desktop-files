@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=qmv
+Exec=/usr/bin/qmv -e gvim "%f";
+Icon=/home/troy/.local/share/icons
+Type=Application
+MimeType=all/all;
+NoDisplay=true
+Categories=Utility;System;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Adobe Digital Editions
+Exec=env WINEPREFIX="/home/troy/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/troy/.wine/dosdevices/c:/users/Public/Start\\ Menu/Programs/Adobe\\ Digital\\ Editions.lnk
+Type=Application
+StartupNotify=true
+Path=/home/troy/.wine/dosdevices/c:/Program Files (x86)/Adobe/Adobe Digital Editions
+Icon=9C4B_digitaleditions.0
