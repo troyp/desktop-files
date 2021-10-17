@@ -3,6 +3,6 @@ Name=qmv
 Exec=/usr/bin/qmv -e gvim "%f";
 Icon=/home/troy/.local/share/icons
 Type=Application
-MimeType=all/all;
+MimeType=application/octet-stream;
 NoDisplay=true
 Categories=Utility;System;
