@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=
-Exec=/usr/bin/feh --auto-zoom -.
-MimeType=inode/directory;
+Exec=feh
+MimeType=inode/directory;image/jpeg;image/png;image/gif;image/tiff;image/bmp;image/x-icon;image/x-xpixmap;image/x-xbitmap;
 Name=feh
 NoDisplay=true
 Path=
