@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=~/.scripts/open-with-program %e
+Exec=~/.scripts/open-with-program %f
 GenericName=Open with specified program
 MimeType=application/octet-stream;
 Name=open-with-program
