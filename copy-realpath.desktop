@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=realpath "%f" | xclip -i;
+MimeType=application/octet-stream;inode/directory;
+Type=Application
+Name=copy-realpath
+NoDisplay=true
+Categories=Utility;System;
