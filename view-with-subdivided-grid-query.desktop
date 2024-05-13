@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=~/.scripts/view-with-subdivided-grid-query %F
+Exec=~/.scripts/view-with-subdivided-grid-query
 GenericName=Image Viewer/Editor with Grid (query size)
 MimeType=inode/directory;image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/tiff;image/x-psd;image/x-webp;image/svg+xml;
 Name=display (grid - query size)

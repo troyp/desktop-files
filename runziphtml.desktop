@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=runziphtml
+Icon=application-default-icon
+Exec=/home/troy/.scripts/runziphtml %F /opt/firefox/firefox
+MimeType=application/zip
+NoDisplay=true
+Categories=Network;Internet;
+StartupNotify=false
+Terminal=false

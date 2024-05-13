@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=realpath "%f" | xclip -i;
+Exec=~/.scripts/copy-realpath
 MimeType=application/octet-stream;inode/directory;
 Type=Application
 Name=copy-realpath
